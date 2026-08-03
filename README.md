@@ -3,6 +3,11 @@
 link del juego original:
 https://mirawakestudios.itch.io/wan2talk
 
+<img width="1740" height="981" alt="image" src="https://github.com/user-attachments/assets/a0976f04-21a5-4c55-b67b-d6d9bc1a4019" />
+<img width="1730" height="1004" alt="image" src="https://github.com/user-attachments/assets/c6adb71f-f052-4339-93d0-846c1edcdd12" />
+<img width="1725" height="971" alt="image" src="https://github.com/user-attachments/assets/556903d2-5fff-4f2f-95c4-03bd759d48ae" />
+
+
 Descarga aqui la traduccion al juego WAN2TALK-PRISIONER0-ESP
 
 link para pc y android:
