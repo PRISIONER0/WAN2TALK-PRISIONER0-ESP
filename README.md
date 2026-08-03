@@ -7,7 +7,7 @@ Descarga aqui la traduccion al juego WAN2TALK-PRISIONER0-ESP
 
 link para pc y android:
 
-
+https://github.com/PRISIONER0/WAN2TALK-PRISIONER0-ESP/releases/tag/V1
 
 ══════════════════════════════
 
